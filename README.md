@@ -61,4 +61,4 @@ dbo.UnpaidBlogs.View.sql
 
 ## Execution plan <br/>
 
-Every Execution Plan screenshot is divided into two files (part1 and part2). Screenshots with "Comparison" prefix show which query is more efficient.
+Each Execution Plan screenshot is divided into two files (part1 and part2). Screenshots with "Comparison" prefix show which query is more efficient.
