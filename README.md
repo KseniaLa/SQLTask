@@ -61,4 +61,4 @@ dbo.UnpaidBlogs.View.sql
 
 ## Execution plan <br/>
 
-Each Execution Plan screenshot is divided into two files (part1 and part2). Screenshots with "Comparison" prefix show which query is more efficient.
+Execution plan was analyzed for queries from the following database objects: UnpaidBlogs View, UserArticlesRaiting View, GetArticlesAfterDate Stored Procedure. Each Execution Plan screenshot is divided into two files (part1 and part2). Screenshots with "Comparison" prefix show which query is more efficient.
